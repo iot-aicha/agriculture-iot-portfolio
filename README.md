@@ -8,7 +8,7 @@ A collection of integrated IoT solutions for modern smart farming, demonstrating
 - [Capabilities](#key-capabilities)
 - [Technical Highlights](#technical-highlights)
 
-## 📦 Projects Overview
+## 📦 Projects Overview <a id="projects-overview"></a>
 
 | Project | Description | Technologies | Status | Repository |
 |---------|-------------|--------------|--------|------------|
@@ -18,7 +18,7 @@ A collection of integrated IoT solutions for modern smart farming, demonstrating
 | [**Soil Monitoring**](environmental-monitoring/) | Soil sensors with analytics | Python, Azure Functions, Sensors | ✅ Complete | [View Code](https://github.com/yourusername/environmental-monitoring) |
 
 
-## 🏗️ Conceptual Architecture
+## 🏗️ Conceptual Architecture <a id="conceptual-architecture"></a>
 
 ```mermaid
 graph TB
@@ -61,7 +61,7 @@ graph TB
     AZURE --> APP4
 ```
 
-## 🎯 Key Capabilities
+## 🎯 Key Capabilities <a id="key-capabilities"></a>
 - 🌾 Smart Inventory Management
   * Real-time object detection for stock monitoring
   * Automated placement validation
@@ -83,7 +83,7 @@ graph TB
   * Automated irrigation recommendations
   * Micro-climate analytics
  
-## 📊 Technical Highlights
+## 📊 Technical Highlights <a id="key-capabilities"></a>
 - Edge Computing: On-device processing for real-time response
 
 - Azure Integration: Cloud services for scalability and analytics
