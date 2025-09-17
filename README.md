@@ -12,7 +12,7 @@ A collection of integrated IoT solutions for modern smart farming, demonstrating
 
 | Project | Description | Technologies | Status | Repository |
 |---------|-------------|--------------|--------|------------|
-| [**Inventory Management**](inventory-management/) | Real-time stock monitoring with computer vision | Python,Custom Vision, Next, Azure CV, OpenCV | ✅ Complete | [View Code](https://github.com/iot-aicha/stock-counter.git) |
+| [**Inventory Management**](environmental-monitoring/) | Real-time stock monitoring with computer vision | Python,Custom Vision, Next, Azure CV, OpenCV | ✅ Complete | [View Code](https://github.com/iot-aicha/stock-counter.git) |
 | [**Fruit Quality Detection**](quality-control/) | AI-powered fruit grading | Python, OpenCV, Azure ML, Custom Vision| ✅ Complete | [View Code](https://github.com/iot-aicha/fruit-quality-detector.git) |
 | [**GPS Tracking System**](equipment-tracking/) | Equipment tracking with geofencing | Python, Azure Maps, IoT Hub, | ✅ Complete | [View Code](https://github.com/iot-aicha/gps-tracking-app.git) |
 | [**Soil Monitoring**](environmental-monitoring/) | Soil sensors with analytics | Python, Azure Functions, Sensors | ✅ Complete | [View Code](https://github.com/iot-aicha/soil-moisture-iot.git) |
