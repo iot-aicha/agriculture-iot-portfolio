@@ -83,7 +83,7 @@ graph TB
   * Automated irrigation recommendations
   * Micro-climate analytics
  
-## 📊 Technical Highlights <a id="key-capabilities"></a>
+## 📊 Technical Highlights <a id="technical-highlights"></a>
 - Edge Computing: On-device processing for real-time response
 
 - Azure Integration: Cloud services for scalability and analytics
