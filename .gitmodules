@@ -1,0 +1,12 @@
+[submodule "inventory-management"]
+	path = inventory-management
+	url = https://github.com/iot-aicha/stock-counter.git
+[submodule "quality-control"]
+	path = quality-control
+	url = https://github.com/iot-aicha/fruit-quality-detector.git
+[submodule "equipment-tracking"]
+	path = equipment-tracking
+	url = https://github.com/iot-aicha/gps-tracking-app.git
+[submodule "environmental-monitoring"]
+	path = environmental-monitoring
+	url = https://github.com/iot-aicha/soil-moisture-iot.git
