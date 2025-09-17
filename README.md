@@ -2,14 +2,21 @@
 
 A collection of integrated IoT solutions for modern smart farming, demonstrating full-stack development capabilities from edge devices to cloud analytics.
 
+## 🚀 Quick Navigation
+- [Projects Overview](#projects-overview)
+- [Architecture](#conceptual-architecture) 
+- [Capabilities](#key-capabilities)
+- [Technical Highlights](#technical-highlights)
+
 ## 📦 Projects Overview
 
-| Project | Description | Technologies | Status |
-|---------|-------------|--------------|--------|
-| [**Inventory Management**](inventory-management/) | Real-time stock monitoring with computer vision | Python, React, Azure CV | ✅ Complete |
-| [**Fruit Quality Detection**](quality-control/) | AI-powered fruit grading and quality control | Python, OpenCV, Azure ML | ✅ Complete |
-| [**GPS Tracking System**](equipment-tracking/) | Real-time equipment tracking with geofencing | C#, Azure Maps, IoT Hub | ✅ Complete |
-| [**Soil Monitoring**](environmental-monitoring/) | IoT soil sensors with automated analytics | Python, Azure Functions | ✅ Complete |
+| Project | Description | Technologies | Status | Repository |
+|---------|-------------|--------------|--------|------------|
+| [**Inventory Management**](inventory-management/) | Real-time stock monitoring with computer vision | Python,Custom Vision, Next, Azure CV, OpenCV | ✅ Complete | [View Code](https://github.com/yourusername/inventory-management) |
+| [**Fruit Quality Detection**](quality-control/) | AI-powered fruit grading | Python, OpenCV, Azure ML, Custom Vision| ✅ Complete | [View Code](https://github.com/yourusername/quality-control) |
+| [**GPS Tracking System**](equipment-tracking/) | Equipment tracking with geofencing | Python, Azure Maps, IoT Hub, | ✅ Complete | [View Code](https://github.com/yourusername/equipment-tracking) |
+| [**Soil Monitoring**](environmental-monitoring/) | Soil sensors with analytics | Python, Azure Functions, Sensors | ✅ Complete | [View Code](https://github.com/yourusername/environmental-monitoring) |
+
 
 ## 🏗️ Conceptual Architecture
 
